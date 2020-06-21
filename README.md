@@ -1,7 +1,7 @@
 # BikeSharing by CitiBike Market and Business Analysis
-Prepared for CitiBike
-by Sheri Karasick
-June 18, 2020
+Prepared for CitiBike <br />
+by Sheri Karasick <br />
+June 18, 2020 <br />
 
 # Key question: Are there opportunities for CikiBike in one of the most commute friendly cities in America? [1]
 
@@ -16,7 +16,7 @@ The advantages of the data set include:
 * A fleet of 13,983 bicycles used by two customer types.
 * 794 working bike rental stations.
 
-####### User Demographics
+###### User Demographics
 NYC CitiBike Users are subscribers (who purchase an annual subscription) and customers (who pay for each use).  They demographically break down by the following user type, gender, and age. 
   
     * Of the two customer types:
