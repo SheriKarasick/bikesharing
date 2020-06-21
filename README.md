@@ -3,6 +3,8 @@ Prepared for CitiBike <br />
 by Sheri Karasick <br />
 June 18, 2020 <br />
 
+[This analysis is accompanied by a data dashboard published in Tableau.]()
+
 # Key question: Are there opportunities for CikiBike in one of the most commute friendly cities in America? [1]
 
 ### Summary Analysis
