@@ -17,7 +17,8 @@ The advantages of the data set include:
 * 794 working bike rental stations.
 
 ####### User Demographics
-  NYC CitiBike Users are subscribers (who purchase an annual subscription) and customers (who pay for each use): 
+NYC CitiBike Users are subscribers (who purchase an annual subscription) and customers (who pay for each use).  They demographically break down by the following user type, gender, and age. 
+  
     * Of the two customer types:
       * 81% are subscribers
       * 19% are customers
