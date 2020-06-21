@@ -16,14 +16,16 @@ The advantages of the data set include:
 * A fleet of 13,983 bicycles used by two customer types.
 * 794 working bike rental stations.
 
+---------------------------------------------------------------------
+
 ##### User Demographics
 
 ###### Population breakdowns in comparison cities
 
-         | Residential Population | Tourist Numbers
-----------------------------------------------
-New York City | Manhattan: 1,628,706 individuals | 65.2 million visitors (2019)  
-Des Moines | 214,237 with 5431 individuals downtown | 13.7 million visitors (2017)
+              | Residential Population                 | Tourist Numbers
+------------- | -------------------------------------- | -------------------------------
+New York City | Manhattan: 1,628,706 individuals       | 65.2 million visitors (2019)  
+Des Moines.   | 214,237 with 5431 individuals downtown | 13.7 million visitors (2017)
 
 ###### User Demographic Information
 NYC CitiBike Users are subscribers (who purchase an annual subscription) and customers (who pay for each use).  They demographically break down by the following user type, gender, and age. 
@@ -45,10 +47,12 @@ NYC CitiBike Users are subscribers (who purchase an annual subscription) and cus
       * 50's: 20.2% of users
       * 60's+: 5.0% of users 
 
+
+---------------------------------------------------------------------
 # Profit Potential
 
 
-
+---------------------------------------------------------------------
 ###### References
 1. Myers, M. 2017. Des Moines Community Least Stressful Among US Cities.  The Patch.  Retrieved from https://patch.com/iowa/des-moines/des-moines-commute-least-stressful-among-u-s-cities.
 
