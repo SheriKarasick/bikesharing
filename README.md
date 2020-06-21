@@ -22,10 +22,10 @@ The advantages of the data set include:
 
 ###### Population breakdowns in comparison cities
 
-              | Residential Population                 | Tourist Numbers
-------------- | -------------------------------------- | -------------------------------
-New York City | Manhattan: 1,628,706 individuals       | 65.2 million visitors (2019)  
-Des Moines.   | 214,237 with 5431 individuals downtown | 13.7 million visitors (2017)
+|---            | Residential Population                 | Tourist Numbers                 |
+|------------- | -------------------------------------- | ------------------------------- |
+| New York City | Manhattan: 1,628,706 individuals      | 65.2 million visitors (2019)    |
+| Des Moines   | 214,237 with 5431 individuals downtown | 13.7 million visitors (2017)    |
 
 ###### User Demographic Information
 NYC CitiBike Users are subscribers (who purchase an annual subscription) and customers (who pay for each use).  They demographically break down by the following user type, gender, and age. 
