@@ -18,7 +18,7 @@ The advantages of the data set include:
 
 ---------------------------------------------------------------------
 
-##### User Demographics
+#### User Demographics
 
 ###### Population breakdowns in comparison cities
 
