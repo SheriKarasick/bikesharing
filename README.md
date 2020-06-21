@@ -61,9 +61,41 @@ Independent market research was conducted to understand patterns among users of 
 * Availability of an operational bicycle is also a key barrier.  This is evidence for supporting bike sharing programs.
 
 
+---------------------------------------------------------------------
+
+### A Brief SWOT
+
+  **Strengths: Des Moines's bike friendliness is a strength.**
+   - Des Moines offers an inside "city walk" for its residents.  The four mile track allows people to navigate the city without having to pass outside, promoting healthy behaviors during weather months where environment does not favor out door transportation.
+
+  - Des Moines offers a robust business district downtown for young professionals in the target market.
+
+  - Downtown Des Moines hosts a young population, within target age range.
+
+  **Weaknesses: Potential market size is a weakness.**
+  
+  - Potential market in Des Moines significantly smaller than New York City [5].
+
+  - The Sky Walk structures compete with safe and comfortable indoor transportation in all weather [4].
+  
+  **Opportunities: Other events create opportunities in expanding bike use.**
+  
+  - Des Moines is hosting the Ironman competition which will bring more interest in cycling to the area [4].
+
+  - Increases in environmental awareness and sensitivity are causing conscious consumers to be more aware of their choices.
+  
+  
+  **Threats: Climate controlled infrastructure already in place is a potential threat.**
+  
+  - Climate controlled infrastructure for walking a four mile section of the city already exists [4].
+
+  - The central downtown area is home to a very small residential population.  Reduced by gender and age bias and percentage of any general population that is inclined to be a bicycle user the potential market is very small (<1500 users).
+
+  - Des Moines is the most commuter friendly city in America, a majority of the population lives outside of a range where casual riders would be inclined to bike for their commute, or even a casual weekend in the city.
 
 ---------------------------------------------------------------------
-###### References
+
+#### References
 1. Myers, M. 2017. Des Moines Community Least Stressful Among US Cities.  The Patch.  Retrieved from https://patch.com/iowa/des-moines/des-moines-commute-least-stressful-among-u-s-cities.
 
 2. CitiBike. 2020. System Data Page, 2019 CitiBike Trip Data from August, 2019.  Retrieved from https://www.citibikenyc.com/system-data.
@@ -72,6 +104,6 @@ Independent market research was conducted to understand patterns among users of 
 
 4. Catch Des Moines. 2020.  The Greater Des Moines Convention & Visitors Bureau and the Des Moines Area Sports Commission. Retrieved from https://www.catchdesmoines.com/.
 
-
+5. US Census Data. 2019. Quickfacts. Retrieved from https://www.census.gov/quickfacts/fact/table/desmoinescityiowa/PST045219?.
 
 
