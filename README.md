@@ -6,7 +6,7 @@ June 18, 2020 <br />
 # Key question: Are there opportunities for CikiBike in one of the most commute friendly cities in America? [1]
 
 ### Summary Analysis
-Analysis utilizes New York City as a comparison city for exploring the potential viability of a CitiBike franchise in Des Moines, Iowa.  The data is visually presented using Tableau to identify business insights that will help understand the market forecast.  This report builds on robust CitiBike user data to understand how it will compare to the target market [2], a market research report that provides insights into patterns of bike use by geographical region in the United States [3] and a brief SWOT analysis.
+Analysis utilizes New York City as a comparison city for exploring the potential viability of a CitiBike franchise in Des Moines, Iowa.  The data is visually presented using Tableau to identify business insights that will help understand the market forecast.  This report builds on robust CitiBike user data to understand how it will compare to the target market [2], a market research report that provides insights into patterns of bike use by geographical region in the United States [3] and a brief SWOT analysis informed by the Catch Des Moines organization [4].
 
 ### Comparison City Data
 There are substantial differences between the comparison city New York City and Des Moines, Iowa.  However, insights can still be gained by examining user information and behavior to determine whether or not Des Moines is a target city for expansion of the CitiBike franchise.
@@ -18,7 +18,7 @@ The advantages of the data set include:
 
 ---------------------------------------------------------------------
 
-#### User Demographics
+### User Demographics
 
 ###### Population breakdowns in comparison cities
 
@@ -49,7 +49,17 @@ NYC CitiBike Users are subscribers (who purchase an annual subscription) and cus
 
 
 ---------------------------------------------------------------------
-# Profit Potential
+
+### Market Research on Bike Use Finds that Americans Desire to Bike More
+
+Independent market research was conducted to understand patterns among users of bicycles. The results are prescient for this analysis.  (Breakaway Research Group, 2015)
+
+* More than half of Americans over 18 would like to bike more often and perceive biking as a convenient mode of transportation.
+
+* Concern about motor vehicle traffic is a key barrier.
+
+* Availability of an operational bicycle is also a key barrier.  This is evidence for supporting bike sharing programs.
+
 
 
 ---------------------------------------------------------------------
@@ -60,7 +70,7 @@ NYC CitiBike Users are subscribers (who purchase an annual subscription) and cus
 
 3. People for Bikes and the Breakaway Research Group.  2015.  US Bicycling Participation Benchmarking Study Report.  Retrieved from https://b.3cdn.net/bikes/7b69b6010056525bce_ijm6vs5q1.pdf.
 
-
+4. Catch Des Moines. 2020.  The Greater Des Moines Convention & Visitors Bureau and the Des Moines Area Sports Commission. Retrieved from https://www.catchdesmoines.com/.
 
 
 
