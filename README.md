@@ -108,4 +108,4 @@ Independent market research was conducted to understand patterns among users of 
 
 5. US Census Data. 2019. Quickfacts. Retrieved from https://www.census.gov/quickfacts/fact/table/desmoinescityiowa/PST045219?.
 
-
+Thank you!
